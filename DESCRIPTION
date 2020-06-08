@@ -3,7 +3,7 @@ Type: Package
 Title: COVID-19 data from JHU
 Version: 0.1.0
 Author: Miftahur Rahman, Ph.D.
-Maintainer: The package maintainer <miftahur1710@gmail.com>
+Maintainer: The package maintainer <irays.teknology.ltd@gmail.com>
 Description: This package gives you the updated worldwide COVID19 data 
     from JHU. To load the package in your code you need to install the
     <"devtools"> package in your computer using <install.packages("devtools")>
